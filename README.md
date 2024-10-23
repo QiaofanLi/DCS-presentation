@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1a2f5bcd-ba05-432e-ab57-bfbc02511687)![image](https://github.com/user-attachments/assets/a1d53fe4-fd01-4fd2-b120-e3cea377b6a6)# DCS第二组-Presentation
+# DCS第二组-Presentation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%8DDCS%E7%AC%AC%E4%BA%8C%E7%BB%84%E5%85%A8%E4%BD%93%E6%88%90%E5%91%98%E7%A5%9D%E6%82%A8%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7%EF%BC%8C%E6%AF%8F%E5%A4%A9%E5%BC%80%E5%BF%83~)](https://git.io/typing-svg)
 
@@ -27,7 +27,7 @@
 
 2.人类微生物组计划（HMP）：https://www.hmpdacc.org/；
 
-3.微生物组：10.1016/j.cell.2018.02.044；
+3.微生物组：https://10.1016/j.cell.2018.02.044；
 
 4.人体肠道宏基因组计划（MetaHIT）：http://www.metahit.eu；
 
@@ -43,16 +43,16 @@
 5.宏基因组基础流程：https://mp.weixin.qq.com/s/xHe1FHLm3n0Vkxz0nNbXvQ；
 
 6.微生物-疾病关联研究范式（MWAS）：
-Junjie Qin et al., doi: 10.1038/nature11450；
-Jun Wang et al., doi: 10.1038/nrmicro.2016.83；
+https://10.1038/nature11450；
+https://10.1038/nrmicro.2016.83；
 
 7.物种-代谢关联分析：
-Shinichi Yachida et al., doi: 10.1038/s41591-019-0458-7；
-R. Gacesa et al., doi: 10.1038/s41586-022-04567-7；
+https://10.1038/s41591-019-0458-7；
+https://10.1038/s41586-022-04567-7；
 
 8.SV&SNP~代谢关联分析策略：
-Lianmin Chen et al., doi: 10.1016/j.cell.2021.03.024；
-Liron Zahavi et al., doi: 10.103a8/s41591-023-02599-8；
+https://10.1016/j.cell.2021.03.024；
+https://10.103a8/s41591-023-02599-8；
 
 ## 周驰部分
 1.宏基因组的应用.临床：
