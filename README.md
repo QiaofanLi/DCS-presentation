@@ -22,61 +22,62 @@
 
 # 🌈参考论文网址
 ## 达圣文部分
-1.人类基因组计划（HGP）：https://www.nature.com/nature/volumes/409/issues/6822;
+1.人类基因组计划（HGP）：https://www.nature.com/nature/volumes/409/issues/6822
 
-2.人类微生物组计划（HMP）：https://www.hmpdacc.org/；
+2.人类微生物组计划（HMP）：https://www.hmpdacc.org/
 
-3.微生物组：https://10.1016/j.cell.2018.02.044；
+3.微生物组：https://doi.org/10.1016/j.cell.2018.02.044
 
-4.人体肠道宏基因组计划（MetaHIT）：http://www.metahit.eu；
+4.人体肠道宏基因组计划（MetaHIT）：http://www.metahit.eu
 
 ## 李乔凡部分
-1.人类微生物组研究指南：https://doi.org/10.1097/CM9.0000000000000871；
+1.人类微生物组研究指南：https://doi.org/10.1097/CM9.0000000000000871
 
-2.孟德尔随机化分析验证因果关系：https://doi.org/10.1038/s41588-021-00968-y；
+2.孟德尔随机化分析验证因果关系：https://doi.org/10.1038/s41588-021-00968-y
 
-3.肠道微生物组的长期遗传稳定性和个体特异性：https://doi.org/10.1016/j.cell.2021.03.024；
+3.肠道微生物组的长期遗传稳定性和个体特异性：https://doi.org/10.1016/j.cell.2021.03.024
 
-4.肠道微生物组中的细菌 SNP 与宿主的 BMI 相关：https://doi.org/10.1038/s41591-023-02599-8；
+4.肠道微生物组中的细菌 SNP 与宿主的 BMI 相关：https://doi.org/10.1038/s41591-023-02599-8
 
-5.宏基因组基础流程：https://mp.weixin.qq.com/s/xHe1FHLm3n0Vkxz0nNbXvQ；
+5.宏基因组基础流程：https://mp.weixin.qq.com/s/xHe1FHLm3n0Vkxz0nNbXvQ
 
 6.微生物-疾病关联研究范式（MWAS）：
-https://10.1038/nature11450；
-https://10.1038/nrmicro.2016.83；
+https://doi.org/10.1038/nature11450
+https://doi.org/10.1038/nrmicro.2016.83
 
 7.物种-代谢关联分析：
-https://10.1038/s41591-019-0458-7；
-https://10.1038/s41586-022-04567-7；
+https://doi.org/10.1038/s41591-019-0458-7
+https://doi.org/10.1038/s41586-022-04567-7
 
 8.SV&SNP~代谢关联分析策略：
-https://10.1016/j.cell.2021.03.024；
-https://10.103a8/s41591-023-02599-8；
+https://10.1016/j.cell.2021.03.024
+https://10.103a8/s41591-023-02599-8
 
 ## 周驰部分
 1.宏基因组的应用.临床：
-https://genome.cshlp.org/content/29/5/831；
-https://www.pnas.org/doi/full/10.1073/pnas.1809700115；
+https://genome.cshlp.org/content/29/5/831
+
+https://www.pnas.org/doi/full/10.1073/pnas.1809700115
 
 2.宏基因组的应用.环境：
-https://www.nature.com/articles/s41586-024-07891-2；
+https://www.nature.com/articles/s41586-024-07891-2
 
 ## 于子喧部分
-1.鼻腔微生物关联：https://www.nature.com/articles/s42003-024-05822-5；
+1.鼻腔微生物关联：https://www.nature.com/articles/s42003-024-05822-5
 
-2.口腔微生物关联：https://www.nature.com/articles/s41421-021-00356-0；
+2.口腔微生物关联：https://www.nature.com/articles/s41421-021-00356-0
 
-3.皮肤微生物关联：https://onlinelibrary.wiley.com/doi/10.1002/advs.202300050;
+3.皮肤微生物关联：https://onlinelibrary.wiley.com/doi/10.1002/advs.202300050
 
-4.阴道微生物关联：https://www.nature.com/articles/s41467-024-52102-1;
+4.阴道微生物关联：https://www.nature.com/articles/s41467-024-52102-1
 
-5.肠道微生物关联：https://www.nature.com/articles/s41588-021-00968-y；
+5.肠道微生物关联：https://www.nature.com/articles/s41588-021-00968-y
 
-6.肠道微生物与代谢/表型相关：https://www.nature.com/articles/s41467-017-00900-1；
+6.肠道微生物与代谢/表型相关：https://www.nature.com/articles/s41467-017-00900-1
 
-7.描述性/关联性→因果性/机制性：https://www.nature.com/articles/s41588-021-00968-y；
+7.描述性/关联性→因果性/机制性：https://www.nature.com/articles/s41588-021-00968-y
 
-8.深入到基因层面研究：https://www.nature.com/articles/s41591-023-02599-8；
+8.深入到基因层面研究：https://www.nature.com/articles/s41591-023-02599-8
 
 # 🌈流程详解
 样本👉提取DNA👉宏基因组测序👉数据预处理👉质控、比对（基于reads）👉组装/拼接分析👉物种组成、功能分析。
@@ -85,12 +86,99 @@ https://www.nature.com/articles/s41586-024-07891-2；
 
 下文流程基于我们组开发的metaprof流程：https://github.com/weiting-liang/metaprof
 
-## 提取DNA和测序部分略...
-## 数据预处理
+软件支持：
 
-## 质控、比对（基于reads）
-## 组装/拼接分析
-## 物种组成、功能分析
+fastp：https://github.com/OpenGene/fastp
+
+bowtie2：: https://github.com/BenLangmead/bowtie2
+
+MetaPhlAn4：https://github.com/biobakery/MetaPhlAn
+## environment
+  - biopython>=1.76
+  - bowtie2>=2.3.5.1
+  - fastp>=0.20.1
+  - metaphlan>=4.1.0
+  - numpy>=1.18.4
+  - pandas>=1.0.3
+  - pigz>=2.3.4
+  - samtools>=1.9
+  - seqkit>=0.12.1
+  - snakemake>=5.14.0
+  - kraken2>=2.1.1
+  - bracken>=2.5
+
+## install
+
+```
+git clone https://github.com/weiting-liang/metaprof.git
+
+cd metaprof
+conda env create -n metaprof -f ./rules/env.yaml
+conda activate metaprof
+```
+
+
+#database prepare  
+human reference
+https://github.com/marbl/CHM13
+```
+mkdir /path/database
+cd database && mkdir humanhost && cd humanhost 
+wget https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/CHM13/assemblies/analysis_set/chm13v2.0.fa.gz
+gzip chm13v2.0.fa.gz -d
+mkdir bowtie2_index && cd bowtie2_index
+bowtie2-build ../chm13v2.0.fa chm13v2
+```
+
+metaphlan3
+```
+cd /path/database
+mkdir metaphlan && cd metaphlan
+metaphlan --install --index mpa_vOct22_CHOCOPhlAnSGB_202212 --bowtie2db metaphlan_database
+```
+
+kraken2
+```
+cd /path/database
+mkdir kraken2 && cd kraken_pub
+wget https://genome-idx.s3.amazonaws.com/kraken/k2_standard_20210517.tar.gz
+tar -xzvf k2_standard_20210517.tar.gz -C ./k2_standard_20210517
+```
+
+## run
+- change the `samples.txt` to adapt to your data: separator should be "\t": id^Ifq1^Ifq2$
+- custom the `config.yaml` database's path and parameters
+
+```
+#dry run
+snakemake --snakefile rules/profile.smk -n
+#test
+snakemake --snakefile rules/profile.smk --core 16 2> smk.log &
+#cluster: custom the cluster.yaml
+nohup sh snakemake.sh &
+```
+
+## output
+
+2.results/  
+  filter_summary.txt  
+  metaphlan4.profile.merge.txt 
+  bracken.merged.abundance.profile.*.tsv  
+
+#assay:  
+1.assay  
+  01.trimming/  
+  02.rmhost/  
+  03.profile/  
+  benchmarks/   #check the cpu's time and max_vms to optimize the cluster's parameters  
+  cluster_logs/   
+  logs/         #find programs' errors  
+
+
+## references
+https://github.com/ohmeta/metapi/blob/master/metapi/Snakefile
+
+https://github.com/liu930724/meta_profile
 
 # 🌈常用网站-微信公众号推荐
 ## 网站
@@ -130,6 +218,8 @@ BIC绘图网站：https://www.bic.ac.cn/BIC/#/
 
 感谢周驰、达圣文、于子喧同学的共同努力。
 
-特别感谢我亲爱的于子喧同学。
+感谢梁卫婷师姐提供的metaprof流程。
+
+特别感谢亲爱的于子喧同学，My love。
 
 2024.10.23
