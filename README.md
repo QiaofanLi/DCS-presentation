@@ -1,5 +1,5 @@
 # DCS第二组-Presentation
-[![MasterHead](your image link)]
+![MasterHead](pic/banner(2).png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%8DDCS%E7%AC%AC%E4%BA%8C%E7%BB%84%E5%85%A8%E4%BD%93%E6%88%90%E5%91%98%E7%A5%9D%E6%82%A8%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7%EF%BC%8C%E6%AF%8F%E5%A4%A9%E5%BC%80%E5%BF%83~)](https://git.io/typing-svg)
 
 
