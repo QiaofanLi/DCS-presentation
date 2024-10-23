@@ -181,8 +181,10 @@ https://github.com/ohmeta/metapi/blob/master/metapi/Snakefile
 https://github.com/liu930724/meta_profile
 
 ## pipeline WDL
-```
+见文件[README1](metaphlan4_Pu_1.3.0.wdl)
 
+```
+如有需要使用，请联系我，我会向你提供docker
 ```
 # 🌈常用网站-微信公众号推荐
 ## 网站
