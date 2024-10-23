@@ -1,4 +1,4 @@
-# DCS第二组-Presentation
+![image](https://github.com/user-attachments/assets/1a2f5bcd-ba05-432e-ab57-bfbc02511687)![image](https://github.com/user-attachments/assets/a1d53fe4-fd01-4fd2-b120-e3cea377b6a6)# DCS第二组-Presentation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%8DDCS%E7%AC%AC%E4%BA%8C%E7%BB%84%E5%85%A8%E4%BD%93%E6%88%90%E5%91%98%E7%A5%9D%E6%82%A8%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7%EF%BC%8C%E6%AF%8F%E5%A4%A9%E5%BC%80%E5%BF%83~)](https://git.io/typing-svg)
 
@@ -23,21 +23,61 @@
 
 # 🌈参考论文网址
 ## 达圣文部分
-helloworld
+1.人类基因组计划（HGP）：https://www.nature.com/nature/volumes/409/issues/6822;
+
+2.人类微生物组计划（HMP）：https://www.hmpdacc.org/；
+
+3.微生物组：10.1016/j.cell.2018.02.044；
+
+4.人体肠道宏基因组计划（MetaHIT）：http://www.metahit.eu；
+
 ## 李乔凡部分
-helloworld
+1.人类微生物组研究指南：https://doi.org/10.1097/CM9.0000000000000871；
+
+2.孟德尔随机化分析验证因果关系：https://doi.org/10.1038/s41588-021-00968-y；
+
+3.肠道微生物组的长期遗传稳定性和个体特异性：https://doi.org/10.1016/j.cell.2021.03.024；
+
+4.肠道微生物组中的细菌 SNP 与宿主的 BMI 相关：https://doi.org/10.1038/s41591-023-02599-8；
+
+5.宏基因组基础流程：https://mp.weixin.qq.com/s/xHe1FHLm3n0Vkxz0nNbXvQ；
+
+6.微生物-疾病关联研究范式（MWAS）：
+Junjie Qin et al., doi: 10.1038/nature11450；
+Jun Wang et al., doi: 10.1038/nrmicro.2016.83；
+
+7.物种-代谢关联分析：
+Shinichi Yachida et al., doi: 10.1038/s41591-019-0458-7；
+R. Gacesa et al., doi: 10.1038/s41586-022-04567-7；
+
+8.SV&SNP~代谢关联分析策略：
+Lianmin Chen et al., doi: 10.1016/j.cell.2021.03.024；
+Liron Zahavi et al., doi: 10.103a8/s41591-023-02599-8；
+
 ## 周驰部分
-helloworld
+1.宏基因组的应用.临床：
+https://genome.cshlp.org/content/29/5/831；
+https://www.pnas.org/doi/full/10.1073/pnas.1809700115；
+
+2.宏基因组的应用.环境：
+https://www.nature.com/articles/s41586-024-07891-2；
+
 ## 于子喧部分
 1.鼻腔微生物关联：https://www.nature.com/articles/s42003-024-05822-5；
 
-2.口腔：https://www.nature.com/articles/s41421-021-00356-0；
+2.口腔微生物关联：https://www.nature.com/articles/s41421-021-00356-0；
 
-3.皮肤：https://onlinelibrary.wiley.com/doi/10.1002/advs.202300050;
+3.皮肤微生物关联：https://onlinelibrary.wiley.com/doi/10.1002/advs.202300050;
 
-4.阴道：https://www.nature.com/articles/s41467-024-52102-1;
+4.阴道微生物关联：https://www.nature.com/articles/s41467-024-52102-1;
 
-5.肠道：https://www.nature.com/articles/s41588-021-00968-y
+5.肠道微生物关联：https://www.nature.com/articles/s41588-021-00968-y；
+
+6.肠道微生物与代谢/表型相关：https://www.nature.com/articles/s41467-017-00900-1；
+
+7.描述性/关联性→因果性/机制性：https://www.nature.com/articles/s41588-021-00968-y；
+
+8.深入到基因层面研究：https://www.nature.com/articles/s41591-023-02599-8；
 
 # 🌈流程详解
 样本👉提取DNA👉宏基因组测序👉数据预处理👉质控、比对（基于reads）👉组装/拼接分析👉物种组成、功能分析。
